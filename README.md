@@ -1,2 +1,3 @@
-# RequirementEngineering
-Requirement and process modeling of hospital systems using BPMN and UML
+# Hospital Admission System
+
+Hospital admission system modeled and optimized using BPMN, UML, DFD, and dashboard analysis to enhance workflow efficiency and performance evaluation.
